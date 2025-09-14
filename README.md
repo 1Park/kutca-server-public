@@ -1,4 +1,3 @@
 Public assets for kutca-server
 
-[대회 요강_최종.docx](https://github.com/user-attachments/files/22320404/_.docx)
-https://github.com/user-attachments/files/22320404/_.docx
+[2025_kutca_competition.pdf](https://github.com/user-attachments/files/22320409/2025_kutca_competition.pdf)
